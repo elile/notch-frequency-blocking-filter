@@ -1,6 +1,6 @@
 %
-%  This project was designed by: Eli Levi, Yuval Zargary, Eitan nosraty.
-%  We would like to thank Mr. David Marcelo Martin for his help and his guidance.
+%  This project was designed by: Eli Levi.
+%  I would like to thank Mr. David Marcelo Martin for his help and his guidance.
 %
 %
 %  ******************* main( )  **********************************
